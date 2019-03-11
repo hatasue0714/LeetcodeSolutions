@@ -2,6 +2,7 @@
 
 # LeetCodePython
 Python LeetCode solutions.
+
 I'm usually using python 2.7.
 
 # LeetcodeKotlin
